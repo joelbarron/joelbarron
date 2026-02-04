@@ -1,56 +1,132 @@
-# Joel Barrón
+<p align="center">
+  <img src="./assets/github-banner.png" alt="Joel Barrón – Senior Backend Engineer" />
+</p>
 
-**Senior Backend / Full-Stack Engineer** focused on building **high-scale APIs** and **resilient systems** with **Python/Django**, async processing, and pragmatic cloud architecture.
+<h1 align="center">Joel Barrón</h1>
 
-- **Core:** Python, Django, DRF, Celery, Redis, PostgreSQL, SQL Server  
-- **Cloud:** AWS (S3, SES, SNS, RDS), CI/CD, IaC fundamentals  
-- **Frontend/Mobile:** React, React Native (Expo), Astro  
-- **Search:** Elasticsearch / OpenSearch  
-- **Reliability:** retries (exponential backoff), idempotency, timeouts, background jobs, observability
+<p align="center">
+  <strong>Senior Backend / Full-Stack Engineer</strong><br/>
+  Python · Django · Async Systems · Cloud Architecture
+</p>
+
+<p align="center">
+  <a href="https://joelbarron.dev">🌐 Portfolio</a> ·
+  <a href="https://linkedin.com/in/joel-barron">💼 LinkedIn</a> ·
+  <a href="mailto:joel.barron.hdz@gmail.com">📩 Email</a>
+</p>
 
 ---
 
-## What I build
-- Performance-first backends (query profiling, indexing strategy, caching)
-- Async pipelines (queues, workers, scheduled tasks)
-- Payment flows (Stripe), webhook-driven state machines
-- AI-assisted ingestion (OCR + classification) for financial data
+## 👨‍💻 About Me
+
+I design and build **performance-first backend systems** for high-impact products.  
+My work focuses on **scalability, reliability, and clean architecture**, with real-world experience handling **high traffic, async workloads, and complex integrations**.
+
+- ⚙️ Query optimization, indexing strategies & profiling  
+- 🔁 Resilient integrations (retries, exponential backoff, idempotency)  
+- 🧵 Async processing with queues and background workers  
+- 📊 Observability, migrations, and production hardening  
+- 🤝 Strong collaboration with product, data, and frontend teams  
 
 ---
 
-## Featured Projects
-### FinZenio — Personal finance + AI statement ingestion
-- Manual tracking + budgets + analytics
-- **AI + OCR** extraction from bank statements
-- Adaptive rules that learn from user corrections  
-**Website:** https://finzenio.app
+## 🧰 Tech Stack
 
-### Rente — Airbnb-style parking marketplace
-- Mobile app (React Native + Expo) + merchant/admin portal (React)
-- Date-range pre-reservations, spot selection, Stripe payments
-- Idempotent webhooks + Redis locks + async notifications
+### 🐍 Backend & APIs
+- **Python**, **Django**, **Django REST Framework**
+- FastAPI, Node.js (**AdonisJS**, Express)
+- Celery, Django Channels, WebSockets
+- Redis, RabbitMQ, SQS
 
-### Mentalysis — DSM-5 pre-screening platform for clinicians
-- Clinical profiling + adaptive questionnaires
-- Full-text search across symptoms, histories and notes (Elasticsearch)
+### ⚡ Performance & Reliability
+- Query optimization (PostgreSQL / SQL Server)
+- Caching strategies (Redis)
+- Async tasks & workers
+- Retries · Timeouts · Circuit breakers
+- Load testing & profiling
 
-### Ludi Comics — Reading platform for schools
-- Kids app with virtual pet + rewards driven by reading
-- School portal with engagement metrics and reports
+### 🔍 Search & Data
+- PostgreSQL · SQL Server · MongoDB
+- Elasticsearch / OpenSearch
+- RDS
+
+### 🎨 Frontend & Mobile
+- React · React Hooks
+- React Native (**Expo**)
+- Astro
+- Tailwind CSS
+
+### ☁️ Cloud & Infrastructure
+- **AWS** (S3, SES, SNS, RDS, Amplify)
+- Azure (experience)
+- Docker · Linux
+- On-prem & self-hosted: **Coolify**, **Dockploy**, **Proxmox**
+- GitHub Actions · CI/CD
+
+### 🧪 Quality & Workflow
+- Git · GitFlow
+- SonarQube
+- Linters & code quality tools
+- Jira
+
+---
+
+## 🚀 Selected Projects
+
+### 💰 **FinZenio** — Personal Finance + AI
+> Smart personal finance platform with AI-powered statement ingestion.
+
+- AI + OCR extraction of bank statements  
+- Automatic classification that **learns from user rules**
+- Budgets, analytics, subscriptions & facial identification  
+- **Stack:** Django, PostgreSQL, Redis, React Native, AWS  
+
+🌐 https://finzenio.app
+
+---
+
+### 🚗 **Rente** — Parking Marketplace
+> Mobile-first platform for renting parking spots by date & availability.
+
+- React Native (Expo) app + React web portal (admins & merchants)
+- Date-range pre-reservations, Stripe payments
+- Async notifications & webhook handling  
+- **Stack:** Django, DRF, Celery, PostgreSQL, Redis, Stripe, AWS  
+
+🌐 https://rente.mx
+
+---
+
+### 🧠 **Mentalysis** — Clinical Pre-Screening (DSM-5)
+> Web platform used by mental health professionals.
+
+- Adaptive questionnaires based on DSM-5
+- Full-text search across symptoms, clinical histories & notes
+- Clinical rules engine + Elasticsearch  
+- **Stack:** Django, PostgreSQL, Elasticsearch, React  
+
+🌐 https://mentalysis.mx
+
+---
+
+### 📚 **Dudi Comics** — Reading Platform for Schools
+> Educational platform with gamification and engagement analytics.
+
+- Kids mobile app with virtual pet driven by reading
+- School web portal with metrics & reports
 - Private distribution to schools (App Store / Play Store)
+- **Stack:** Python, Django, React, React Native (Expo), Redis, S3  
 
 ---
 
-## Tech Stack
-**Backend:** Python · Django · DRF · FastAPI · Celery · Redis · RabbitMQ/SQS  
-**Data:** PostgreSQL · SQL Server · MongoDB · Elasticsearch  
-**Frontend:** React · React Native · Expo · Astro · Tailwind  
-**Cloud/Infra:** AWS (S3/SES/SNS/RDS) · Docker · GitHub Actions · Coolify/Dockploy · Proxmox
+## 📬 Contact
+
+- 🌐 Portfolio: https://joelbarron.dev  
+- 💼 LinkedIn: https://linkedin.com/in/joel-barron  
+- 📩 Email: joel.barron.hdz@gmail.com  
 
 ---
 
-## Contact
-- Portfolio: https://joelbarron.dev  
-- Email: joel.barron.hdz@gmail.com  
-- GitHub: https://github.com/joelbarron  
-- LinkedIn: https://linkedin.com/in/joel-barron  
+<p align="center">
+  <i>Building reliable systems that scale — not just code that works.</i>
+</p>
