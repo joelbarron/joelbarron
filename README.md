@@ -119,6 +119,19 @@ My work focuses on **scalability, reliability, and clean architecture**, with re
 
 ---
 
+## 📦 Open Source
+
+### 🔐 **JB DRF AUTH**
+Reusable authentication foundation for **Django REST Framework**, focused on **passwordless OTP flows** and **multi-profile user architectures**.
+
+- Passwordless auth with OTP (SMS via **AWS SNS**)
+- Multi-profile users (one user, multiple roles)
+- Decoupled, reusable auth domain across projects
+- Published on **PyPI** with CI/CD via GitHub Actions
+
+**Stack:** `Python · Django · DRF · PostgreSQL · Redis · AWS SNS`  
+🔗 https://pypi.org/project/jb-drf-auth · https://github.com/joelbarron/jb-drf-auth
+
 ## 📬 Contact
 
 - 🌐 Portfolio: https://joelbarron.dev  
