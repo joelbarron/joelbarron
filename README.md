@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner-github.png" alt="Joel Barrón – Senior Backend Engineer" />
+  <img src="./assets/banner-github.jpeg" alt="Joel Barrón – Senior Backend Engineer" />
 </p>
 
 <h1 align="center">Joel Barrón</h1>
